@@ -11,4 +11,4 @@ authors:
 ---
 ![](/images/screenshot-from-2020-11-09-19-57-16.png)
 
-Gab's is pretty
+Gab's is awesome
