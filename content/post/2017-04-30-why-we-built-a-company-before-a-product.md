@@ -6,7 +6,7 @@ excerpt: Creating a new website for Hopper, one of the top 4 most downloaded tra
   apps in the U.S, along with Uber, Lyft.
 timeToRead: 3
 authors:
-- Thiago Costa
+- Sum Yi Ren
 
 ---
 ![](/images/screenshot-from-2020-11-09-19-57-16.png)
