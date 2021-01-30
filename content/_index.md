@@ -1,7 +1,7 @@
 ---
 hero:
-  heading: 'Hi, I''m Sum. I started this blog to share my projects and to keep myself
-    accountable. Also a place to share my thoughts and writings. '
+  heading: 'Hi, I''m Sum. I started this blog in 2021 to share about my projects,
+    my thoughts and my writings. '
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
